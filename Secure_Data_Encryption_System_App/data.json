@@ -3,16 +3,6 @@
         "encrypted_text": "sample_data",
         "passkey": "hashed_passkey"
     },
-    "users": {
-        "Shehreen Arshad": "cbfad02f9ed2a8d1e08d8f74f5303e9eb93637d47f82ab6f1c15871cf8dd0481",
-        "Shehree": "e8b74603941aded3d0052d6ceece2def777aa300a8ec2caf4622dd696c6f58ff",
-        "shsh": "b4bd1e9712d481a654147d5756646c272ec32b97991f8237dcab7a77ee36ad21",
-        "frr": "c5660991ae4533f7d31338605bdb937c5fcf2721a4a18fdbefa19796cab8ae39",
-        "sdsd": "4bb7a8b99609b0b8b1d534694bb1f31f129138a2f2a11f8e8702eedbb792922e",
-        "fffffffff": "c181d7b4d9e26908e494167f8537f2a1402abe41a85622442f00abc0b0ed6c78",
-        "iiii": "311b65cda7d294973fcf6218f1f5b6d3f15697cd63f3e0d483049b20ad69237c",
-        "shreen6": "2016478d9492c6ea60a144f25e5df8d21b89c6ad1707846d716ee59343770997"
-    },
     "data": {},
     "Shehreen Arshad": {
         "first": "gAAAAABoF2O9_8yiy40cqRVaLYzGOJruRjQ73FzrNfRRoZAyZG_EmIld1KwRcUnpoU9Qa1lvd3WQPemFRMhwu9ujGUV1KI1bmOyXCrXJpU9ZfoA_eoMzuEIEhlR2ETYY65Foe-piNS6xWLf7aDXUtDsJKfBFfmmHDw=="
@@ -21,37 +11,6 @@
         "data": {
             "encrypted": "gAAAAABoF2ZS7EzxlUSP48SJisq4_NERvrFukwLGF5DdFemCOO-22cPb6lhXfN1bthw27lXKWf5QagDryYWm7ut9FWWG9VMmfpx3N80G58sgEl5H55WWh-0=",
             "passkey": "r5r5"
-        }
-    },
-    "shsh": {
-        "we": {
-            "encrypted": "gAAAAABoF2dtkFWP2GvvK1aIMR5mpkKUyIpiUsK1XZyY-m6IYVTro5z3Vitt9SKhUVhkvNyY8FM9SMot5TmfyjYBFz16cwD4xq-tJOB4kSZUTl5vdsxN4Ww=",
-            "passkey": "r5r5"
-        }
-    },
-    "frr": {
-        "my mane": {
-            "encrypted": "gAAAAABoF2j9X74ruZabDW1a0JWBFksTwbB54UZQm3yRUyqepUah4Ca9qdGeawFBkhrgIl-VzfZnxu8rFjIsXZuwyMUYUhuN2Z0fh5FJrS6ABS_J9JsrQtj64t78beVnBBXi4I2PFEdTYPj3GWEuiGnsuD2YCC8_2ucDjwfP_xj9ed2xM9c69RfGTIIYqvjDtMEv7Yyfd-2h",
-            "passkey": "t6t6"
-        },
-        "your name": {
-            "encrypted": "gAAAAABoF2kxyW-DEqI0rMzRbyRUbOFi7JI43ysoaa0UYig-wLf8qr2RSo9BFxFTBaes2m8AhxxDHLUMplvrotKhApgQPiHsYNxjHPsKLCAfyEBOP7BjBsqiaHkngxuI8XBwSGsZFWZI",
-            "passkey": "y7y7"
-        }
-    },
-    "sdsd": {
-        "my mane": "gAAAAABoF27PjzCZll8-E_9eL8uz36Sy5kOeFLsoF-jKggrNK1jBBxITqJBE66sMIaWoD14p9v4Git5hkWwqQ3bSzOcW8AIxF3p5kiAbxE81YVb40mXfZ6k="
-    },
-    "fffffffff": {
-        "wee": {
-            "encrypted": "gAAAAABoF3CCFAOhz3DSyFrfVICvitgUDMqNKJTATJxGofVmAFNBZf_K6Qhv9bDpYqjAg9buIBH632oxP4IIIE2BsqlSrJH8cM4DqmX6O8YDxdd5u4P05ePY-UeFAoPGa8H6bzzZxoDqKeCUufdUEt13-X6Vgyrvsg==",
-            "passkey": "t6t6"
-        }
-    },
-    "iiii": {
-        "Shehreen Arshad": {
-            "encrypted": "gAAAAABoF3IDfk89uqtrNecD3CzcaJc26hJp4AMjt_9ckylmioENBE306GnKuLAogv-hOxV37KNoqBvgNHKIGMmCdfuaDiF1zNA8vvu57o3Cx3KuLCa26TY=",
-            "passkey": "i9i9"
         }
     }
 }
